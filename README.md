@@ -16,3 +16,5 @@ Based on ST-MEM ([Paper](https://arxiv.org/pdf/2402.09450), [git](https://github
 
 ## Dataset, Pretrained model
 public soon ... (See paper)
+- data: ./data
+- pretrained model: ./st_mem
