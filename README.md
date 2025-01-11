@@ -1,6 +1,3 @@
-# ECG_SSL_RECON
-ECG self-supervised learning project
-
 # 심전도 신호 재구성 방식의 자기지도 학습 제안 및 비교
 한국소프트웨어종합학술대회 논문집
 
