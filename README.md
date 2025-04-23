@@ -1,6 +1,8 @@
 # 심전도 신호 재구성 방식의 자기지도 학습 제안 및 비교
 한국정보과학회 2024 한국소프트웨어종합학술대회
+
 Korean Institute of Information Scientists and Engineers (KSC)
+
 paper link: [심전도 신호 재구성 방식의 자기지도 학습 제안 및 비교](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041847)
 
 ## Base
