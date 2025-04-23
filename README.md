@@ -18,6 +18,6 @@ Based on ST-MEM ([Paper](https://arxiv.org/pdf/2402.09450), [git](https://github
 .ipynb 파일 참고 (코드 정리 제대로 X)
 
 ## Dataset, Pretrained model
-public soon ... (See paper)
+(see the paper)
 - data: ./data
 - pretrained model: ./st_mem
